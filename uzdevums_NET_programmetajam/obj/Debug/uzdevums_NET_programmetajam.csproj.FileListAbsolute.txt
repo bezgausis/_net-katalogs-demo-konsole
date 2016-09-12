@@ -1,0 +1,6 @@
+C:\Users\deniv\documents\visual studio 2015\Projects\uzdevums_NET_programmetajam\uzdevums_NET_programmetajam\bin\Debug\uzdevums_NET_programmetajam.exe.config
+C:\Users\deniv\documents\visual studio 2015\Projects\uzdevums_NET_programmetajam\uzdevums_NET_programmetajam\bin\Debug\uzdevums_NET_programmetajam.exe
+C:\Users\deniv\documents\visual studio 2015\Projects\uzdevums_NET_programmetajam\uzdevums_NET_programmetajam\bin\Debug\uzdevums_NET_programmetajam.pdb
+C:\Users\deniv\documents\visual studio 2015\Projects\uzdevums_NET_programmetajam\uzdevums_NET_programmetajam\obj\Debug\uzdevums_NET_programmetajam.exe
+C:\Users\deniv\documents\visual studio 2015\Projects\uzdevums_NET_programmetajam\uzdevums_NET_programmetajam\obj\Debug\uzdevums_NET_programmetajam.pdb
+C:\Users\deniv\documents\visual studio 2015\Projects\uzdevums_NET_programmetajam\uzdevums_NET_programmetajam\obj\Debug\uzdevums_NET_programmetajam.csprojResolveAssemblyReference.cache
